@@ -6,7 +6,7 @@
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Congo"
+title = "Elisabeth Ericson"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
@@ -15,10 +15,10 @@ enableRobotsTXT = true
 summaryLength = 0
 
 [author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
-  # bio = "A little bit about you"
-  # links = [
+  name = "Elisabeth Ericson"
+  image = "img/me.png"
+  bio = "BIO TEXT HERE"
+  links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -31,14 +31,14 @@ summaryLength = 0
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+      { github = "https://github.com/elieri" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
+      { linkedin = "https://linkedin.com/in/elisabethericson" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
@@ -57,4 +57,4 @@ summaryLength = 0
   #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+     ]

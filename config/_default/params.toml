@@ -14,14 +14,14 @@ colorScheme = "congo"
 # robots = ""
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
-  showRecent = false
+  layout = "profile" # valid options: page, profile, custom
+  showRecent = true
 
 [article]
   showDate = true
   dateFormat = "2 January 2006"
   showAuthor = true
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
