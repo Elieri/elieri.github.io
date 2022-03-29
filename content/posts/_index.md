@@ -1,1 +1,4 @@
-blog intro text
+---
+title: 'Posts'
+---
+
